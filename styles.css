@@ -173,6 +173,7 @@ Menu
   text-align: center;
   margin-bottom: 2rem;
   color: black;
+  text-align: center;
 }
 .underline {
   width: 5rem;
@@ -229,7 +230,7 @@ Menu
 }
 .item-info h4 {
   margin-bottom: 0.5rem;
-  font-size: 30px;
+  font-size: 25px;
   text-align: left;
   color: black;
 }
